@@ -1,2 +1,2 @@
-# Voice-Hub
-Voice Hub is a mobile app build with kodular that enables voice interaction and smart responses on android devices.
+# CreatorConnect
+CreatorConnect is a mobile app built with kodular that enables voice interaction and smart responses on Android devices.
